@@ -1,0 +1,2 @@
+# ea-licenses
+ea licenses
